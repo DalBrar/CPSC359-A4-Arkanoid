@@ -1,6 +1,6 @@
 # Arkanoid in ASSEMBLY 
 
-for CPSC 359 Assignment 4.
+Classic arcade game written in Assembly to run on a Raspberry Pi.
 
 ## Setup
 
